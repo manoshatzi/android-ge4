@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GE4-SDY61</string>
+    <string name="button_start">ΕΝΑΡΞΗ</string>
+    <string name="button_next">ΕΠΟΜΕΝΟ</string>
+    <string name="button_refresh_image">ΑΛΛΗ ΕΙΚΟΝΑ</string>
+    <string name="welcome_message">Καλώς ήλθατε στην εφαρμογή του Χατζηευστρατίου Εμμανουήλ</string>
+    <string name="no_internet">Πρόβλημα πρόσβασης στο δίκτυο. Ελέγξτε τη σύνδεση σας και δοκιμάστε πάλι.</string>
+    <string name="validation_error">Λανθασμένα στοιχεία. Ξαναπροσπαθήστε</string>
+    <string name="validation_message">Αυθεντικοποίηση Επιτυχής</string>
+
+    <string name="server_client_id">358368161752-591uebrfkjr8srlceo0j7okk66un2gml.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+    <!--<string name="google_maps_api_key">AIzaSyD_Z8QvjWhJpjggEeDhYqJV1u6dgjDYhrE</string>-->
+
+</resources>
